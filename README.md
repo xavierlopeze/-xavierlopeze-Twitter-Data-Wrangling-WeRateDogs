@@ -1,9 +1,7 @@
 # Analyzing Data from Twitter User WeRateDogs [@dog_rates](https://twitter.com/dog_rates)
 
 In this project I am gathering information from the Twitter user WeRateDogs, this user posts images of cute dogs.
-
 The data comes from different sources, in file format and also web-scrapped through the [Twitter API](https://developer.twitter.com/en/docs/twitter-api).
-
 The goal is to assess, clean and analyze and produce insightful data visualizations as a result.
 
 This project is part of the [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) corresponding to the Data Wrangle project.
