@@ -14,7 +14,9 @@ This project is part of the [Udacity Data Analyst Nanodegree](https://www.udacit
 
 
 ## Reports
-
+- [wrangle_act.ipynb](https://github.com/xavierlopeze/Twitter-Data-Wrangling-WeRateDogs/blob/master/wrangle_act.ipynb): A description of all the data wrangling efforts performed.
+- [act_report.ipynb](https://github.com/xavierlopeze/Twitter-Data-Wrangling-WeRateDogs/blob/master/act_report.ipynb): A summary of insights and data visualizations result of the wrangling efforts (note that the visualizations do not appear in interactive format).
+- [wrangle_act.ipynb](https://github.com/xavierlopeze/Twitter-Data-Wrangling-WeRateDogs/blob/master/wrangle_act.ipynb): Full code where the API is triggered, the data wrangling effort takes place and the data visualizaitons are generated (the data visualizations are interactive in this notebook).
 
 ## Datasets
 - [data/twitter-archive-enhanced.csv](https://github.com/xavierlopeze/Twitter-Data-Wrangling-WeRateDogs/blob/master/data/twitter-archive-enhanced.csv): Data from the Twitter Archive that the user [@dog_rates](https://twitter.com/dog_rates) shared to Udacity students. This data has been preprocessed previously with some sloppy work that needs fixing.
