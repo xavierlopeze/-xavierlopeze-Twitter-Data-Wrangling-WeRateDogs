@@ -10,9 +10,9 @@ This project is part of the [Udacity Data Analyst Nanodegree](https://www.udacit
 
 
 ## Implementation
-- Entire code is in Python 3
-- We use [Altair](https://altair-viz.github.io/) for interactive visualizations
-- For histograms we have used [matplotlib](https://matplotlib.org/)
+- Entire code is in Python 3.
+- [Altair](https://altair-viz.github.io/) is used for interactive visualizations.
+- [Matplotlib](https://matplotlib.org/) is used for histograms.
 
 
 ## Reports
