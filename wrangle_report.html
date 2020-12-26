@@ -13149,9 +13149,11 @@ Objective: Document the data wrangling process including gathering, assessing, a
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Data-Quality-Issues-Solved">Data Quality Issues Solved<a class="anchor-link" href="#Data-Quality-Issues-Solved">&#182;</a></h3><ol>
-<li>Dropped redudnand information for each datasource.</li>
+<li>Dropped Retweets.</li>
 </ol>
 <ul>
+<li><p>Dropped redudnand information for each datasource.</p>
+</li>
 <li><p>The rating of a tweet is encoded in two columns, for simplification we will generate a single column tweet ranking to easily compare.</p>
 </li>
 <li><p>The <em>expanded_urls</em> column is giving more than one vlaue for tweets with more than one image, and those values are repeated separated by columns. 
